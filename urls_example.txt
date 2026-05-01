@@ -1,0 +1,14 @@
+# Файл зі списком URL для аудиту
+# Рядки що починаються з # — ігноруються
+# По одному URL на рядок
+
+https://www.bielsko.info/wiadomosci/25880-tanie-kredyty-przez-kolejna-dekade-kiedy-wzrosna-stopy-procentowe
+https://czechtheworld.com/black-friday-letos-opet-dominuji-nakupy-pres-internet/
+https://www.fragrantica.com/board/viewtopic.php?pid=7633605#p7633605
+https://www.elconfidencialdigital.com/articulo/comunicados/espanoles-comenzaron-2023-uso-activo-cupones-codigos-promocionales/20230209102118518178.html
+https://kinamedia.se/2022/12/01/hur-svenskar-klarar-inflationen-2022/
+https://forum.gazeta.pl/forum/w,272,128030289,128030289,Sports_Betting.html
+https://apnews.com/press-release/prodigy-news/how-2020-changed-shopping-forever-statistics-and-facts-by-promocodius-c2e0c56fd2074d4614df47a94da0156d
+https://github.com/Rocco-cup/dvgfdb/commit/a4c4c2471f2abbfccb00821921b8d527d15a54b0
+https://www.transfermarkt.co.uk/news-thread/thread/forum/191/thread_id/161/page/2
+https://www.reddit.com/r/Adguard/comments/1pnib6u/what_are_the_dns_blocklist_everyone_uses/
